@@ -19,7 +19,7 @@ function Portofolio() {
                         <p className='description'>This is my portfolio .</p>
                         <div className='portofolio-wrapper'>
                             <div className='portofolio-item'>
-                                <img src="/pusdiklat.PNG" alt="portofolio-image" className='portofolio-image' />
+                                <img src="/Pusdiklat.PNG" alt="portofolio-image" className='portofolio-image' />
                                 <h4 className='portofolio-name'><Link href='https://github.com/aderohmatmaulana98/pendaftaran-ujian-ept'><a target="_blank" className='git-links'>Sistem Pendaftaran Ujian EPT</a></Link></h4>
                                 <div className='portofolio-category'>Website Dev</div>
                             </div>
